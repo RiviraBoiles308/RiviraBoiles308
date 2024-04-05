@@ -1,0 +1,19 @@
+{
+    "name": "teapackage-riviraboiles308",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RiviraBoiles308/RiviraBoiles308.git"
+    },
+    "bugs": {
+        "url": "https://github.com/RiviraBoiles308/RiviraBoiles308/issues"
+    }
+}
